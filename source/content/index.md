@@ -7,3 +7,6 @@ Hello world!
 Write some words here!
 
 This is another homelab
+
+[[Homelab.canvas|Homelab]]
+

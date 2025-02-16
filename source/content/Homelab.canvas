@@ -1,146 +1,75 @@
 {
-  "edges": [
-    {
-      "color": "5",
-      "fromNode": "553dccb04ecc9e34",
-      "fromSide": "left",
-      "id": "99eb9826eff8ebaf",
-      "label": "Old 64Gb ECC  RAM\nOld CPU & Wraith Cooler",
-      "toNode": "47439ccc37515a31",
-      "toSide": "right"
-    },
-    {
-      "color": "4",
-      "fromNode": "50e7a3ac21cd42ff",
-      "fromSide": "bottom",
-      "id": "cfadd74ebed6a636",
-      "label": "CPU",
-      "toNode": "553dccb04ecc9e34",
-      "toSide": "top"
-    },
-    {
-      "color": "4",
-      "fromNode": "50e7a3ac21cd42ff",
-      "fromSide": "bottom",
-      "id": "c30cd9e729ccff54",
-      "label": "M2 SSDs\n",
-      "toNode": "47439ccc37515a31",
-      "toSide": "top"
-    },
-    {
-      "color": "5",
-      "fromNode": "47439ccc37515a31",
-      "fromSide": "top",
-      "id": "aef879b86ba3d33a",
-      "label": "Old M2 SSD\nOld SATA SSD\nOld CPU",
-      "toNode": "4f3d8fd740d07f39",
-      "toSide": "bottom"
-    },
-    {
-      "color": "5",
-      "fromNode": "47439ccc37515a31",
-      "fromSide": "bottom",
-      "id": "6ba1bd935c6b0266",
-      "label": "Old RAM",
-      "toNode": "a04fc76c562de276",
-      "toSide": "top"
-    },
-    {
-      "color": "5",
-      "fromNode": "47439ccc37515a31",
-      "fromSide": "bottom",
-      "id": "32c79d8865819f57",
-      "label": "Old water cooler",
-      "toNode": "553dccb04ecc9e34",
-      "toSide": "bottom"
-    },
-    {
-      "color": "5",
-      "fromNode": "44de662852f34426",
-      "fromSide": "bottom",
-      "id": "933233d0329179e1",
-      "label": "Old Motherboard\nOld Memory",
-      "toNode": "4f3d8fd740d07f39",
-      "toSide": "top"
-    },
-    {
-      "color": "4",
-      "fromNode": "50e7a3ac21cd42ff",
-      "fromSide": "left",
-      "id": "0a91bc3d0b2a2b6d",
-      "label": "Motherboard\nMemory",
-      "toNode": "44de662852f34426",
-      "toSide": "right"
-    }
-  ],
-  "metadata": {
-  },
-  "nodes": [
-    {
-      "file": "New Truenas - Old Workstation.md",
-      "height": 864,
-      "id": "47439ccc37515a31",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 470,
-      "x": -230,
-      "y": -464
-    },
-    {
-      "file": "New Workstation.md",
-      "height": 520,
-      "id": "4f3d8fd740d07f39",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 470,
-      "x": -230,
-      "y": -1360
-    },
-    {
-      "file": "New Kit.md",
-      "height": 468,
-      "id": "50e7a3ac21cd42ff",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 385,
-      "x": 1420,
-      "y": -1308
-    },
-    {
-      "file": "Proxmox Bravo.md",
-      "height": 864,
-      "id": "553dccb04ecc9e34",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 660,
-      "x": 1420,
-      "y": -464
-    },
-    {
-      "file": "Proxmox Alpha.md",
-      "height": 629,
-      "id": "44de662852f34426",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 470,
-      "x": -230,
-      "y": -2400
-    },
-    {
-      "file": "Proxmox Backups.md",
-      "height": 629,
-      "id": "a04fc76c562de276",
-      "styleAttributes": {
-      },
-      "type": "file",
-      "width": 385,
-      "x": -187,
-      "y": 840
-    }
-  ]
+	"edges":[
+		{"color":"5","fromNode":"553dccb04ecc9e34","fromSide":"left","id":"99eb9826eff8ebaf","label":"Old 64Gb ECC  RAM\nOld CPU & Wraith Cooler","toNode":"47439ccc37515a31","toSide":"right"},
+		{"color":"4","fromNode":"50e7a3ac21cd42ff","fromSide":"bottom","id":"cfadd74ebed6a636","label":"CPU","toNode":"553dccb04ecc9e34","toSide":"top"},
+		{"color":"4","fromNode":"50e7a3ac21cd42ff","fromSide":"bottom","id":"c30cd9e729ccff54","label":"M2 SSDs\n","toNode":"47439ccc37515a31","toSide":"top"},
+		{"color":"5","fromNode":"47439ccc37515a31","fromSide":"top","id":"aef879b86ba3d33a","label":"Old M2 SSD\nOld SATA SSD\nOld CPU","toNode":"4f3d8fd740d07f39","toSide":"bottom"},
+		{"color":"5","fromNode":"47439ccc37515a31","fromSide":"bottom","id":"6ba1bd935c6b0266","label":"Old RAM","toNode":"a04fc76c562de276","toSide":"top"},
+		{"color":"5","fromNode":"47439ccc37515a31","fromSide":"bottom","id":"32c79d8865819f57","label":"Old water cooler","toNode":"553dccb04ecc9e34","toSide":"bottom"},
+		{"color":"5","fromNode":"44de662852f34426","fromSide":"bottom","id":"933233d0329179e1","label":"Old Motherboard\nOld Memory","toNode":"4f3d8fd740d07f39","toSide":"top"},
+		{"color":"4","fromNode":"50e7a3ac21cd42ff","fromSide":"left","id":"0a91bc3d0b2a2b6d","label":"Motherboard\nMemory","toNode":"44de662852f34426","toSide":"right"}
+	],
+	"metadata":{},
+	"nodes":[
+		{
+			"file":"New Truenas - Old Workstation.md",
+			"height":864,
+			"id":"47439ccc37515a31",
+			"styleAttributes":{},
+			"type":"file",
+			"width":470,
+			"x":-230,
+			"y":-464
+		},
+		{
+			"file":"New Workstation.md",
+			"height":520,
+			"id":"4f3d8fd740d07f39",
+			"styleAttributes":{},
+			"type":"file",
+			"width":470,
+			"x":-230,
+			"y":-1360
+		},
+		{
+			"file":"New Kit.md",
+			"height":468,
+			"id":"50e7a3ac21cd42ff",
+			"styleAttributes":{},
+			"type":"file",
+			"width":385,
+			"x":1420,
+			"y":-1308
+		},
+		{
+			"file":"Proxmox Bravo.md",
+			"height":864,
+			"id":"553dccb04ecc9e34",
+			"styleAttributes":{},
+			"type":"file",
+			"width":660,
+			"x":1420,
+			"y":-464
+		},
+		{
+			"file":"Proxmox Alpha.md",
+			"height":629,
+			"id":"44de662852f34426",
+			"styleAttributes":{},
+			"type":"file",
+			"width":470,
+			"x":-230,
+			"y":-2400
+		},
+		{
+			"file":"Proxmox Backups.md",
+			"height":629,
+			"id":"a04fc76c562de276",
+			"styleAttributes":{},
+			"type":"file",
+			"width":385,
+			"x":-187,
+			"y":840
+		}
+	]
 }

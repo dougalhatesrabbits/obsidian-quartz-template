@@ -150,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of index"
             }
+          },
+          {
+            "id": "edbaee2a7100c5e8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,8 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "47ef711f7e8c1d64",
   "lastOpenFiles": [
+    "Homelab.canvas",
+    "Minisforum.md",
+    "index.md",
     "Proxmox Bravo.md",
     "Proxmox Backups.md",
     "Proxmox Alpha.md",
@@ -179,8 +192,6 @@
     "New Workstation.md",
     "New Truenas - Old Workstation.md",
     "New Kit.md",
-    "Minisforum.md",
-    "Homelab.canvas",
     "PNGs/th-748539320.jpg",
     "PNGs/i5KF_QuarterLeft_2000x2000px.webp",
     "PNGs/i5KF_QuarterLeft_2000x2000px.jpg",
@@ -202,7 +213,6 @@
     "PDFs/MSI MAG Z490 Tomahawk E7C80v1.1.pdf",
     "PDFs/MSI MAG Tomahawk manual E7C84v1.1.pdf",
     "category-folder/Some note.md",
-    "category-folder/index.md",
-    "index.md"
+    "category-folder/index.md"
   ]
 }
