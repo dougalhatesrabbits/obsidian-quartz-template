@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "8d5299b7f3dc32de",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee8f0a9db30e966d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29634d78c6477f44",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c4581473b45c955",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e9b252c0ad3e934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21af275a6652d0f7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "420df47d324b6fe0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "db80d09fa7c3a05e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "89e0b88ad13fc45c",
+    "type": "split",
+    "children": [
+      {
+        "id": "745bd89808a3dd5d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "253a5bb36078ea94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2f5bb757bde95652",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "mb_manual_b550i-aorus-pro-ax_1303_e.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from mb_manual_b550i-aorus-pro-ax_1303_e"
+            }
+          },
+          {
+            "id": "080624d33c1836d6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "30478fa518b5dc59",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "mb_manual_b550i-aorus-pro-ax_1303_e.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of mb_manual_b550i-aorus-pro-ax_1303_e"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "21af275a6652d0f7",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "QIG-PSU.pdf",
+    "mb_manual_b550i-aorus-pro-ax_1303_e.pdf",
+    "mb_manual_x570-i-aorus-pro-wifi_1002_e.pdf"
+  ]
+}
